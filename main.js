@@ -7,7 +7,7 @@ avance.forEach(button ={
 const proximopasso= "passo-" +this.getattribute(`.ativo`)
 atual.classlist. remove (`ativo`)
 document.getElementbyld(proximopasso).classlist.add(`ativo`)
-}
+})
 }
 
 )
