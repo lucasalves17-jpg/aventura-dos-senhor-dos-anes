@@ -18,8 +18,8 @@ main{
 .img01{
     width: 102%;
 }             
-.passo.ativo{
-    display: block;
+.passo{
+    display: none;
 }
 .passo.ativo{
       display:block;
